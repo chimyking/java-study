@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myByteStream.com.itheima_02;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -11,7 +11,8 @@ import java.io.IOException;
         2:调用字节输入流对象的读数据方法
         3:释放资源
  */
-public class FileInputStreamDemo02 {
+public class FileInputStreamDemo02
+{
     public static void main(String[] args) throws IOException {
         //创建字节输入流对象
         FileInputStream fis = new FileInputStream("myByteStream\\fos.txt");

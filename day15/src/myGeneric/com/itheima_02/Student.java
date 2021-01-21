@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myGeneric.com.itheima_02;
 
 public class Student {
     private String name;

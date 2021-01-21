@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myByteStream.com.itheima_01;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.io.IOException;
 public class FileOutputStreamDemo04 {
     public static void main(String[] args) {
 //        try {
-//            FileOutputStream fos = new FileOutputStream("myByteStream\\fos.txt");
+//            FileOutputStream fos = new FileOutputStream("day17/src/myByteStream/fos.txt");
 //            fos.write("hello".getBytes());
 //            fos.close();
 //        } catch (IOException e) {
@@ -19,7 +19,7 @@ public class FileOutputStreamDemo04 {
         //加入finally来实现释放资源
         FileOutputStream fos = null;
         try {
-            fos = new FileOutputStream("myByteStream\\fos.txt");
+            fos = new FileOutputStream("day17/src/myByteStream/fos.txt");
 //            fos = new FileOutputStream("Z:\\myByteStream\\fos.txt");
             fos.write("hello".getBytes());
         } catch (IOException e) {

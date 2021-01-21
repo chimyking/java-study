@@ -25,8 +25,8 @@ public class OperatorDemo4 {
 		System.out.println("--------");
 
 		//&&和&
-		//System.out.println((i++ > 100) & (j++ > 100)); //false & false
-		System.out.println((i++ > 100) && (j++ > 100)); //false && false
+		System.out.println((i++ > 100) & (j++ > 100)); //false & false
+//		System.out.println((i++ > 100) && (j++ > 100)); //false && false
 		System.out.println("i:" + i);
 		System.out.println("j:" + j);
 	}

@@ -1,4 +1,5 @@
-package com.itheima_02;
+package com.string_builder.itheima_02;
+
 /*
     StringBuilder 转换为 String
         public String toString()：通过 toString() 就可以实现把 StringBuilder 转换为 String

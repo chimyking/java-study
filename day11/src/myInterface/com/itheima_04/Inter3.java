@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myInterface.com.itheima_04;
 
 public interface Inter3 extends Inter1,Inter2 {
 

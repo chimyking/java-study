@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myList.com.itheima_06;
 
 public class Student {
     private String name;

@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myArrays.com.itheima_02;
 
 import java.util.Arrays;
 

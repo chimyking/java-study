@@ -1,4 +1,5 @@
-package com.itheima_03;
+package myInnerClass.com.itheima_03;
+
 /*
     测试类
  */

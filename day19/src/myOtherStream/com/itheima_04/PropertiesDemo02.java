@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myOtherStream.com.itheima_04;
 
 import java.util.Properties;
 import java.util.Set;

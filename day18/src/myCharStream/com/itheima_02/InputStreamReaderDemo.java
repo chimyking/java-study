@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myCharStream.com.itheima_02;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -16,7 +16,7 @@ public class InputStreamReaderDemo {
     public static void main(String[] args) throws IOException {
         //InputStreamReader​(InputStream in)：创建一个使用默认字符集的InputStreamReader
 //        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\osw.txt"));
-        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\ConversionStreamDemo.java"));
+        InputStreamReader isr = new InputStreamReader(new FileInputStream("day18/src/myCharStream/a.txt"));
 
         //int read​()：一次读一个字符数据
 //        int ch;

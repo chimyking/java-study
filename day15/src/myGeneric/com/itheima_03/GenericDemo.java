@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myGeneric.com.itheima_03;
 
 /*
     测试类

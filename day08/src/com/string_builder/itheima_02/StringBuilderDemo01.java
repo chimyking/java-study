@@ -1,4 +1,5 @@
-package com.itheima_02;
+package com.string_builder.itheima_02;
+
 /*
     StringBuilder 的添加和反转方法
         public StringBuilder append(任意类型)：添加数据，并返回对象本身
@@ -10,11 +11,11 @@ public class StringBuilderDemo01 {
         StringBuilder sb = new StringBuilder();
 
         //public StringBuilder append(任意类型)：添加数据，并返回对象本身
-//        StringBuilder sb2 = sb.append("hello");
-//
-//        System.out.println("sb:" + sb);
-//        System.out.println("sb2:" + sb2);
-//        System.out.println(sb == sb2);
+        StringBuilder sb2 = sb.append("hello");
+
+        System.out.println("sb:" + sb);
+        System.out.println("sb2:" + sb2);
+        System.out.println(sb == sb2);
 
 //        sb.append("hello");
 //        sb.append("world");

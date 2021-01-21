@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myInterface.com.itheima_02;
 
 public interface Inter {
     public int num = 10;

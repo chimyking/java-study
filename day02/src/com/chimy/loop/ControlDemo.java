@@ -5,14 +5,15 @@ package com.chimy.loop;
 	break:用在循环中，基于条件控制，终止循环体内容的执行，也就是说结束当前的整个循环
 */
 public class ControlDemo {
-	public static void main(String[] args) {
-		for(int i = 1; i<=5; i++) {
-			if(i%2 == 0) {
-				//continue;
-				break;
-			}
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            if (i % 2 == 0) {
+                // continue;
+                break;
+            }
 
-			System.out.println(i);
-		}
-	}
+
+            System.out.println(i);
+        }
+    }
 }

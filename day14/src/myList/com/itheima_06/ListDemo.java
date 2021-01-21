@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myList.com.itheima_06;
 
 import java.util.ArrayList;
 import java.util.Iterator;

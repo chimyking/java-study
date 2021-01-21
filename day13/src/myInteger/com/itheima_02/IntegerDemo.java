@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myInteger.com.itheima_02;
 
 /*
     构造方法：

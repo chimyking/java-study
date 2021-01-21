@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myException.com.itheima_02;
 
 /*
     public String getMessage():返回此 throwable 的详细消息字符串

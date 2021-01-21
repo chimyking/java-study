@@ -1,8 +1,9 @@
-package cn.itcast;
+package myTwo.cn.itcast;
 
-import com.itheima_01.Student;
 //import com.itheima_02.Teacher;
 
+
+import com.itheima_02.Student;
 
 public class Test01 {
     public static void main(String[] args) {

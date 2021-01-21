@@ -1,4 +1,4 @@
-package com.itheima_03;
+package com.string_builder.itheima_03;
 
 /*
     需求：

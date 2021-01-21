@@ -1,4 +1,4 @@
-package com.itheima_07;
+package myCharStream.com.itheima_07;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -64,7 +64,7 @@ public class TreeSetToFileDemo {
         }
 
         //创建字符缓冲输出流对象
-        BufferedWriter bw = new BufferedWriter(new FileWriter("myCharStream\\ts.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("day19/src/myCharStream/ts.txt"));
 
         //遍历集合，得到每一个学生对象
         for (Student s : ts) {

@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myCharStream.com.itheima_04;
 
 import java.io.*;
 

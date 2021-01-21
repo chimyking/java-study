@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myAbstract.com.itheima_02;
 
 /*
     测试类

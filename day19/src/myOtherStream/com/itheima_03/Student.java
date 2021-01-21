@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myOtherStream.com.itheima_03;
 
 import java.io.Serializable;
 

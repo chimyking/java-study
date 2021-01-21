@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myCollections.com.itheima_01;
 
 public class Student {
     private String name;
@@ -26,5 +26,8 @@ public class Student {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public void study() {
     }
 }

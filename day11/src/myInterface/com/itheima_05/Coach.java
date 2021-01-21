@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myInterface.com.itheima_05;
 
 //抽象教练类
 public abstract class Coach extends Person {

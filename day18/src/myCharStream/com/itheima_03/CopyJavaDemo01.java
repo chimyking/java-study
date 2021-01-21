@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myCharStream.com.itheima_03;
 
 import java.io.*;
 
@@ -15,9 +15,9 @@ import java.io.*;
 public class CopyJavaDemo01 {
     public static void main(String[] args) throws IOException {
         //根据数据源创建字符输入流对象
-        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\ConversionStreamDemo.java"));
+        InputStreamReader isr = new InputStreamReader(new FileInputStream("day18/src/myCharStream/com/itheima_02/ConversionStreamDemo.java"));
         //根据目的地创建字符输出流对象
-        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("myCharStream\\Copy.java"));
+        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("day18/src/myCharStream/Copy.java"));
 
         //读写数据，复制文件
         //一次读写一个字符数据

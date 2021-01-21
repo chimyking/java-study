@@ -1,4 +1,5 @@
-package com.itheima_04;
+package myInnerClass.com.itheima_04;
+
 /*
     前提：
 	    存在一个类或者接口

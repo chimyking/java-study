@@ -1,4 +1,4 @@
-/*
+package com.chimy.statement.loopswitch;/*
 	春夏秋冬
 
 	需求：

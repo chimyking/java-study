@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myArrays.com.itheima_01;
 
 /*
     冒泡排序：

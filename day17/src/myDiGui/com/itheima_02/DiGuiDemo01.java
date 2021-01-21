@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myDiGui.com.itheima_02;
 
 /*
     需求：

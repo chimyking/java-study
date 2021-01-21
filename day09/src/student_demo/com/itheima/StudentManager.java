@@ -1,4 +1,6 @@
-package com.itheima;
+package student_demo.com.itheima;
+
+import student_demo.com.itheima.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

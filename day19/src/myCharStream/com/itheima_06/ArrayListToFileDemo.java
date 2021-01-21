@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myCharStream.com.itheima_06;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -37,7 +37,7 @@ public class ArrayListToFileDemo {
         array.add(s3);
 
         //创建字符缓冲输出流对象
-        BufferedWriter bw = new BufferedWriter(new FileWriter("myCharStream\\students.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("day19/src/myCharStream/students.txt"));
 
         //遍历集合，得到每一个学生对象
         for (Student s : array) {

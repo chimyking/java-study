@@ -1,4 +1,5 @@
-package com.itheima_01;
+package myInterface.com.itheima_01;
+
 /*
     定义了一个接口
  */

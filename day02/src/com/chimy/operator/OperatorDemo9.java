@@ -10,9 +10,9 @@ public class OperatorDemo9 {
 		System.out.println("i:" + i);
 
 		//单独使用
-		//i++;
-		//++i;
-		//System.out.println("i:" + i);
+		i++;
+		++i;
+		System.out.println("i:" + i);
 
 		//参与操作使用
 		//int j = i++;

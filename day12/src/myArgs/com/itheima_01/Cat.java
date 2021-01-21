@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myArgs.com.itheima_01;
 
 public class Cat {
 

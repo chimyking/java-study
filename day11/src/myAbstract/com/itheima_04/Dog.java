@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myAbstract.com.itheima_04;
 
 public class Dog extends Animal {
 

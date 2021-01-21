@@ -1,4 +1,4 @@
-package com.itheima_01;
+package com.string_builder.itheima_01;
 
 /*
     StringBuilder构造方法：

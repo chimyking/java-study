@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myInterface.com.itheima_05;
 
 //抽象运动员类
 public abstract class Player extends Person {

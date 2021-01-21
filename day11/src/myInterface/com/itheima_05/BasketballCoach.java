@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myInterface.com.itheima_05;
 
 public class BasketballCoach extends Coach {
     public BasketballCoach() {

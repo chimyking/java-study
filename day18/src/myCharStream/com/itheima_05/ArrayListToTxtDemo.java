@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myCharStream.com.itheima_05;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

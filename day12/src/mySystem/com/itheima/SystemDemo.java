@@ -1,4 +1,4 @@
-package com.itheima;
+package mySystem.com.itheima;
 
 /*
     System类的常用方法

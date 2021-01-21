@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myInteger.com.itheima_04;
 
 /*
     装箱：把基本数据类型转换为对应的包装类类型

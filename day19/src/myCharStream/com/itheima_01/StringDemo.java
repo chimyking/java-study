@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myCharStream.com.itheima_01;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;

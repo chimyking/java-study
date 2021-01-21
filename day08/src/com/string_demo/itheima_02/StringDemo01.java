@@ -1,4 +1,5 @@
-package com.itheima_02;
+package com.string_demo.itheima_02;
+
 /*
     String构造方法：
         public String()：创建一个空白字符串对象，不含有任何内容

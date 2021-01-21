@@ -1,4 +1,5 @@
-package com.itheima_01;
+package myInnerClass.com.itheima_01;
+
 /*
     内部类格式：
         public class 类名{

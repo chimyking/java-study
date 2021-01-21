@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myAbstract.com.itheima_03;
 
 /*
     抽象类
@@ -16,7 +16,7 @@ public abstract class Animal {
 
 
     public void show() {
-        age = 40;
+//        age = 40;
         System.out.println(age);
 //        city = "上海";
         System.out.println(city);

@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myCharStream.com.itheima_02;
 
 import java.io.*;
 
@@ -19,14 +19,14 @@ public class ConversionStreamDemo {
 //        OutputStreamWriter osw = new OutputStreamWriter(fos);
 //        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("myCharStream\\osw.txt"));
 //        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("myCharStream\\osw.txt"),"UTF-8");
-        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("myCharStream\\osw.txt"),"GBK");
+        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("day18/src/myCharStream/a.txt"));
         osw.write("中国");
         osw.close();
 
 //        InputStreamReader​(InputStream in) 创建一个使用默认字符集的InputStreamReader。
 //        InputStreamReader​(InputStream in, String charsetName) 创建一个使用命名字符集的InputStreamReader。
-//        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\osw.txt"));
-        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\osw.txt"),"GBK");
+        InputStreamReader isr = new InputStreamReader(new FileInputStream("day18/src/myCharStream/a.txt"));
+//        InputStreamReader isr = new InputStreamReader(new FileInputStream("myCharStream\\osw.txt"),"GBK");
         //一次读取一个字符数据
         int ch;
         while ((ch=isr.read())!=-1) {

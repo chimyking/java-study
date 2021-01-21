@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myDuoTai.com.itheima_05;
 
 public class Cat extends Animal {
 

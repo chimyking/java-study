@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myAbstract.com.itheima_03;
 
 public class Cat extends Animal {
 

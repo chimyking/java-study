@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myInteger.com.itheima_01;
 
 /*
     基本类型包装类

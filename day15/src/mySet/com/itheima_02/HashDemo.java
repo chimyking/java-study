@@ -1,4 +1,4 @@
-package com.itheima_02;
+package mySet.com.itheima_02;
 
 /*
     哈希值：

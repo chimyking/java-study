@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myByteStream.com.itheima_03;
 
 import java.io.*;
 
@@ -14,19 +14,19 @@ import java.io.*;
 public class BufferStreamDemo {
     public static void main(String[] args) throws IOException {
         //字节缓冲输出流：BufferedOutputStream​(OutputStream out)
-//        FileOutputStream fos = new FileOutputStream("myByteStream\\bos.txt");
+//        FileOutputStream fos = new FileOutputStream("day18/src/myByteStream/bos.txt");
 //        BufferedOutputStream bos = new BufferedOutputStream(fos);
-        /*
-        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("myByteStream\\bos.txt"));
-        //写数据
-        bos.write("hello\r\n".getBytes());
-        bos.write("world\r\n".getBytes());
-        //释放资源
-        bos.close();
-        */
+
+//        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("day18/src/myByteStream/bos.txt"));
+//        //写数据
+//        bos.write("hello\r\n".getBytes());
+//        bos.write("world\r\n".getBytes());
+//        //释放资源
+//        bos.close();
+
 
         //字节缓冲输入流：BufferedInputStream​(InputStream in)
-        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("myByteStream\\bos.txt"));
+        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("day18/src/myByteStream/bos.txt"));
 
         //一次读取一个字节数据
 //        int by;

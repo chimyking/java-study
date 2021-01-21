@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myArgs.com.itheima_03;
 
 public class Cat implements Jumpping {
 

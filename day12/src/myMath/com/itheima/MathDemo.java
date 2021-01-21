@@ -1,4 +1,4 @@
-package com.itheima;
+package myMath.com.itheima;
 
 /*
     Math类的常用方法

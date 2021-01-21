@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myInterface.com.itheima_04;
 
 public interface Inter1 {
 }

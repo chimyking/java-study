@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myByteStream.com.itheima_03;
 
 import java.io.*;
 
@@ -24,10 +24,10 @@ public class CopyAviDemo {
         long startTime = System.currentTimeMillis();
 
         //复制视频
-//        method1();
-//        method2();
-//        method3();
-        method4();
+//        method1(); // 共耗时：很久
+//        method2(); // 共耗时：185毫秒
+//        method3(); // 共耗时：524毫秒
+        method4(); // 共耗时：65毫秒
 
         //记录结束时间
         long endTime = System.currentTimeMillis();
@@ -36,8 +36,8 @@ public class CopyAviDemo {
 
     //字节缓冲流一次读写一个字节数组
     public static void method4() throws IOException {
-        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("E:\\itcast\\字节流复制图片.avi"));
-        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("myByteStream\\字节流复制图片.avi"));
+        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("day17/素材/itcast/字节流复制图片.avi"));
+        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("day18/素材/itcast/字节流复制图片.avi"));
 
         byte[] bys = new byte[1024];
         int len;
@@ -51,8 +51,8 @@ public class CopyAviDemo {
 
     //字节缓冲流一次读写一个字节
     public static void method3() throws IOException {
-        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("E:\\itcast\\字节流复制图片.avi"));
-        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("myByteStream\\字节流复制图片.avi"));
+        BufferedInputStream bis = new BufferedInputStream(new FileInputStream("day17/素材/itcast/字节流复制图片.avi"));
+        BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("day18/素材/itcast/字节流复制图片.avi"));
 
         int by;
         while ((by=bis.read())!=-1) {
@@ -68,12 +68,13 @@ public class CopyAviDemo {
     public static void method2() throws IOException {
         //E:\\itcast\\字节流复制图片.avi
         //模块目录下的 字节流复制图片.avi
-        FileInputStream fis = new FileInputStream("E:\\itcast\\字节流复制图片.avi");
-        FileOutputStream fos = new FileOutputStream("myByteStream\\字节流复制图片.avi");
+        FileInputStream fis = new FileInputStream("day17/素材/itcast/字节流复制图片.avi");
+        FileOutputStream fos = new FileOutputStream("day18/素材/itcast/字节流复制图片.avi");
 
         byte[] bys = new byte[1024];
         int len;
         while ((len=fis.read(bys))!=-1) {
+            System.out.println("..");
             fos.write(bys,0,len);
         }
 
@@ -85,14 +86,14 @@ public class CopyAviDemo {
     public static void method1() throws IOException {
         //E:\\itcast\\字节流复制图片.avi
         //模块目录下的 字节流复制图片.avi
-        FileInputStream fis = new FileInputStream("E:\\itcast\\字节流复制图片.avi");
-        FileOutputStream fos = new FileOutputStream("myByteStream\\字节流复制图片.avi");
+        FileInputStream fis = new FileInputStream("day17/素材/itcast/字节流复制图片.avi");
+        FileOutputStream fos = new FileOutputStream("day18/素材/itcast/字节流复制图片.avi");
 
         int by;
         while ((by=fis.read())!=-1) {
+            System.out.println("..");
             fos.write(by);
         }
-
         fos.close();
         fis.close();
     }

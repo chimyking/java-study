@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myObject.com.itheima_01;
 
 public class Student extends Object {
     private String name;

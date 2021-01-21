@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myCharStream.com.itheima_05;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -23,7 +23,7 @@ import java.util.Random;
 public class CallNameDemo {
     public static void main(String[] args) throws IOException {
         //创建字符缓冲输入流对象
-        BufferedReader br = new BufferedReader(new FileReader("myCharStream\\names.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("day19/src/myCharStream/names.txt"));
 
         //创建ArrayList集合对象
         ArrayList<String> array = new ArrayList<String>();

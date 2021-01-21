@@ -1,4 +1,4 @@
-/*
+package com.chimy.loop;/*
 	猜数字
 
 	需求：

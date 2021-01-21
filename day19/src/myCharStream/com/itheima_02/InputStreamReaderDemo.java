@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myCharStream.com.itheima_02;
 
 import java.io.FileInputStream;
 import java.io.IOException;

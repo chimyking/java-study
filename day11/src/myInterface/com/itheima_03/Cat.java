@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myInterface.com.itheima_03;
 
 public class Cat extends Animal implements Jumpping {
 

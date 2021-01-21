@@ -10,12 +10,15 @@ public class ConversionDemo {
         byte b = 10;
         short s = b;
         int i = b;
-
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(i);
         //这是不可以的，类型不兼容
         //char c = b;
 
         //强制类型转换
         int k = (int)88.88;
+        System.out.println(k);
         System.out.println(k);
     }
 }

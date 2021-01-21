@@ -1,4 +1,4 @@
-package com.itheima;
+package myFile.com.itheima;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,17 +19,17 @@ import java.io.IOException;
 public class FileDemo02 {
     public static void main(String[] args) throws IOException {
         //需求1：我要在E:\\itcast目录下创建一个文件java.txt
-        File f1 = new File("E:\\itcast\\java.txt");
+        File f1 = new File("/Users/chimy/IdeaProjects/javaSE-itheima/day17/src/myFile/java1.txt");
         System.out.println(f1.createNewFile());
         System.out.println("--------");
 
         //需求2：我要在E:\\itcast目录下创建一个目录JavaSE
-        File f2 = new File("E:\\itcast\\JavaSE");
+        File f2 = new File("/Users/chimy/IdeaProjects/javaSE-itheima/day17/src/myFile/JavaSE");
         System.out.println(f2.mkdir());
         System.out.println("--------");
 
         //需求3：我要在E:\\itcast目录下创建一个多级目录JavaWEB\\HTML
-        File f3 = new File("E:\\itcast\\JavaWEB\\HTML");
+        File f3 = new File("/Users/chimy/IdeaProjects/javaSE-itheima/day17/src/myFile/itcast/JavaWEB/HTML");
 //        System.out.println(f3.mkdir());
         System.out.println(f3.mkdirs());
         System.out.println("--------");

@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myInteger.com.itheima_03;
 
 import java.util.Arrays;
 

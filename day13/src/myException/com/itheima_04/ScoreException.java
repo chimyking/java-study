@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myException.com.itheima_04;
 
 public class ScoreException extends Exception {
 

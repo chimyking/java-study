@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myInnerClass.com.itheima_03;
 
 public class Outer {
 

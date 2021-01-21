@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myException.com.itheima_02;
 
 /*
     try {

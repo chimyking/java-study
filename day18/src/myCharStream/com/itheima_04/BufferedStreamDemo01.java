@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myCharStream.com.itheima_04;
 
 import java.io.*;
 
@@ -22,7 +22,7 @@ public class BufferedStreamDemo01 {
 //        bw.close();
 
         //BufferedReader(Reader in)
-        BufferedReader br = new BufferedReader(new FileReader("myCharStream\\bw.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("day18/src/myCharStream/a.txt"));
 
         //一次读取一个字符数据
 //        int ch;

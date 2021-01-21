@@ -1,5 +1,4 @@
-package com.itheima_03;
-
+package myGeneric.com.itheima_03;
 /*
 public class Generic {
     public void show(String s) {

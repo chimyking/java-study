@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myByteStream.com.itheima_02;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -19,10 +19,11 @@ public class FileInputStreamDemo01 {
     public static void main(String[] args) throws IOException {
         //创建字节输入流对象
         //FileInputStream(String name)
-        FileInputStream fis = new FileInputStream("myByteStream\\fos.txt");
+        FileInputStream fis = new FileInputStream("day17/src/myByteStream/fos.txt");
 
         //调用字节输入流对象的读数据方法
         //int read()：从该输入流读取一个字节的数据
+
 
         /*
         //第一次读取数据
@@ -38,9 +39,13 @@ public class FileInputStreamDemo01 {
         //再多读取两次
         by = fis.read();
         System.out.println(by);
+        System.out.println((char)by);
         by = fis.read();
         System.out.println(by);
-
+        System.out.println((char)by);
+        by = fis.read();
+        System.out.println(by);
+        System.out.println((char)by);
         //如果达到文件的末尾， -1
         */
 

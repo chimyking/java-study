@@ -1,4 +1,4 @@
-package com.itheima_02;
+package mySimpleDateFormat.com.itheima_02;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myCharStream.com.itheima_06;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -24,7 +24,7 @@ import java.util.ArrayList;
 public class FileToArrayListDemo {
     public static void main(String[] args) throws IOException {
         //创建字符缓冲输入流对象
-        BufferedReader br = new BufferedReader(new FileReader("myCharStream\\students.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("day19/src/myCharStream/students.txt"));
 
         //创建ArrayList集合对象
         ArrayList<Student> array = new ArrayList<Student>();

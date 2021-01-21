@@ -1,4 +1,4 @@
-package com.itheima_07;
+package myCharStream.com.itheima_07;
 
 public class Student {
     // 姓名

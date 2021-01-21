@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-Collection/1-Collection.iml" filepath="$PROJECT_DIR$/1-Collection/1-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Reflect/10-Reflect.iml" filepath="$PROJECT_DIR$/10-Reflect/10-Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-OOP/2-OOP.iml" filepath="$PROJECT_DIR$/2-OOP/2-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-APIS/3-APIS.iml" filepath="$PROJECT_DIR$/3-APIS/3-APIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-Exception/4-Exception.iml" filepath="$PROJECT_DIR$/4-Exception/4-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-IO/5-IO.iml" filepath="$PROJECT_DIR$/5-IO/5-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-Thread/6-Thread.iml" filepath="$PROJECT_DIR$/6-Thread/6-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-Network/7-Network.iml" filepath="$PROJECT_DIR$/7-Network/7-Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Lambda/8-Lambda.iml" filepath="$PROJECT_DIR$/8-Lambda/8-Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-Functional/9-Functional.iml" filepath="$PROJECT_DIR$/9-Functional/9-Functional.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />

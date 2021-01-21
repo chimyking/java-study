@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myAbstract.com.itheima_04;
 
 public abstract class Animal {
     private String name;

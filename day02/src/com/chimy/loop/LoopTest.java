@@ -1,3 +1,5 @@
+package com.chimy.loop;
+
 /*
 	三种循环的区别
  */

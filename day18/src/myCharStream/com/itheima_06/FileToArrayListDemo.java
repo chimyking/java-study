@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myCharStream.com.itheima_06;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myDuoTai.com.itheima_03;
 
 /*
     动物操作类

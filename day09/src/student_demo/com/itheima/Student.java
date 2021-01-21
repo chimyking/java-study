@@ -1,4 +1,5 @@
-package com.itheima;
+package student_demo.com.itheima;
+
 /*
     学生类
     Alt+Insert  根据自己的需要进行选择

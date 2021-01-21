@@ -1,4 +1,4 @@
-package com.itheima_02;
+package com.string_demo.itheima_02;
 
 /*
     使用 == 做比较：

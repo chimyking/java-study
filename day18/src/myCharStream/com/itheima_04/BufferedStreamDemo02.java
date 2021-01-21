@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myCharStream.com.itheima_04;
 
 import java.io.*;
 
@@ -13,9 +13,8 @@ import java.io.*;
  */
 public class BufferedStreamDemo02 {
     public static void main(String[] args) throws IOException {
-        /*
         //创建字符缓冲输出流
-        BufferedWriter bw = new BufferedWriter(new FileWriter("myCharStream\\bw.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("day18/src/myCharStream/BufferedStreamDemo02_1.txt"));
 
         //写数据
         for (int i = 0; i < 10; i++) {
@@ -27,28 +26,27 @@ public class BufferedStreamDemo02 {
 
         //释放资源
         bw.close();
-        */
 
         //创建字符缓冲输入流
-        BufferedReader br = new BufferedReader(new FileReader("myCharStream\\bw.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("day18/src/myCharStream/BufferedStreamDemo02_1.txt"));
 
         //public String readLine()：读一行文字。
-        /*
+
         //第一次读取数据
-        String line = br.readLine();
-        System.out.println(line);
+//        String line = br.readLine();
+//        System.out.println(line);
+//
+//        //第二次读取数据
+//        line = br.readLine();
+//        System.out.println(line);
+//
+//        //在多读两次
+//        line = br.readLine();
+//        System.out.println(line);
+//
+//        line = br.readLine();
+//        System.out.println(line);
 
-        //第二次读取数据
-        line = br.readLine();
-        System.out.println(line);
-
-        //在多读两次
-        line = br.readLine();
-        System.out.println(line);
-
-        line = br.readLine();
-        System.out.println(line);
-        */
 
         String line;
         while ((line=br.readLine())!=null) {

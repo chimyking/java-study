@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myOne.com.itheima_01;
 
 public class Student {
     public void study() {

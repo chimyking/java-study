@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myInterface.com.itheima_01;
 
 /*
     测试类

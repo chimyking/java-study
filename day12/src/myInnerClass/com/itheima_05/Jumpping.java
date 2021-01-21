@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myInnerClass.com.itheima_05;
 
 /*
     跳高接口

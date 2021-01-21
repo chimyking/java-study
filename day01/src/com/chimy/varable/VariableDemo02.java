@@ -29,8 +29,8 @@ public class VariableDemo02 {
         System.out.println(c);
 
         //定义boolean类型的变量
-        //boolean b = true;
-        //System.out.println(b);
+//        boolean bbbb = true;
+//        System.out.println(bbbb);
         boolean bb = true;
         System.out.println(bb);
         System.out.println("--------");

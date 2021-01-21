@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myOne.com.itheima_02;
 
 public class Teacher {
     public void teach() {

@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myCharStream.com.itheima_05;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -28,7 +28,7 @@ public class ArrayListToTxtDemo {
         array.add("java");
 
         //创建字符缓冲输出流对象
-        BufferedWriter bw = new BufferedWriter(new FileWriter("myCharStream\\array.txt"));
+        BufferedWriter bw = new BufferedWriter(new FileWriter("day19/src/array.txt"));
 
         //遍历集合，得到每一个字符串数据
         for(String s : array) {

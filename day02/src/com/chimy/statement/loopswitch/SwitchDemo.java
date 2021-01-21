@@ -1,4 +1,4 @@
-/*
+package com.chimy.statement.loopswitch;/*
 	switch语句
 
 	格式：

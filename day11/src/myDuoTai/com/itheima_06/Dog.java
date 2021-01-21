@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myDuoTai.com.itheima_06;
 
 public class Dog extends Animal {
 

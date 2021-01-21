@@ -1,4 +1,5 @@
-package com.itheima_01;
+package myDuoTai.com.itheima_01;
+
 /*
     多态：
         同一个对象，在不同时刻表现出来的不同形态

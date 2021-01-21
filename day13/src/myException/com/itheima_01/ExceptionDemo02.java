@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myException.com.itheima_01;
 
 /*
     JVM的默认处理方案
