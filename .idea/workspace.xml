@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69b7f16c-73d8-48e0-b9e4-45ab4dbd62e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69b7f16c-73d8-48e0-b9e4-45ab4dbd62e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,26 +76,13 @@
       <recent name="com.itheima_09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InetAddressDemo">
+  <component name="RunManager" selected="JUnit.StringTest.testConstructor">
     <configuration name="ExceptionDemo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myException.com.itheima_02.ExceptionDemo01" />
       <module name="day13" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="myException.com.itheima_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myException.com.itheima_01.ExceptionDemo01" />
-      <module name="day13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myException.com.itheima_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,13 +134,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-APIS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chimy.javase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chimy.javase" />
+      <option name="MAIN_CLASS_NAME" value="com.chimy.javase.StringTest" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringTest.testConstructor" />
         <item itemvalue="Application.InetAddressDemo" />
         <item itemvalue="Application.ExceptionDemo02 (1)" />
         <item itemvalue="Application.ExceptionDemo01 (1)" />
         <item itemvalue="Application.ExceptionDemo02" />
-        <item itemvalue="Application.ExceptionDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <updated>1604053205796</updated>
       <workItem from="1611214012561" duration="700000" />
       <workItem from="1611287534181" duration="7321000" />
-      <workItem from="1611308969525" duration="2456000" />
+      <workItem from="1611308969525" duration="2491000" />
     </task>
     <servers />
   </component>
