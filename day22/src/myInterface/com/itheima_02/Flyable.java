@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myInterface.com.itheima_02;
 
 public interface Flyable {
     public static void test() {

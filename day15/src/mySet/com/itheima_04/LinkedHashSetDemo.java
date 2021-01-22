@@ -1,4 +1,4 @@
-package com.itheima_04;
+package mySet.com.itheima_04;
 
 import java.util.LinkedHashSet;
 

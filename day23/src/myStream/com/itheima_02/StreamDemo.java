@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myStream.com.itheima_02;
 
 import java.util.*;
 import java.util.stream.Stream;

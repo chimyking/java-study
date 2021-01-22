@@ -1,4 +1,4 @@
-package com.itheima_01;
+package mySet.com.itheima_01;
 
 import java.util.HashSet;
 import java.util.Set;

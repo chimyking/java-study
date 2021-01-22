@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myFunctionInterface.com.itheima_03;
 
 import java.util.function.Supplier;
 

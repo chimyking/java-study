@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myCollections.com.itheima_02;
 
 import java.util.ArrayList;
 import java.util.Collections;

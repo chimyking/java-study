@@ -1,4 +1,4 @@
-package com.itheima_05;
+package mySet.com.itheima_05;
 
 public class Student implements Comparable<Student> {
     private String name;

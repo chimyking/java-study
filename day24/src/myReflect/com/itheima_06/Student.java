@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myReflect.com.itheima_06;
 
 public class Student {
     public void study() {

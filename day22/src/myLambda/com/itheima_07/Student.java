@@ -1,4 +1,4 @@
-package com.itheima_07;
+package myLambda.com.itheima_07;
 
 public class Student {
     public void study() {

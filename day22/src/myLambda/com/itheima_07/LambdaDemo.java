@@ -1,4 +1,4 @@
-package com.itheima_07;
+package myLambda.com.itheima_07;
 
 /*
     Lambda表达式和匿名内部类的区别

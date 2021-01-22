@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myReflect.com.itheima_02;
 
 public class Student {
     //成员变量：一个私有，一个默认，一个公共

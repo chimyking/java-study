@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myMethodReference.com.itheima_02;
 
 /*
     需求：

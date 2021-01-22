@@ -10,5 +10,4 @@ public class AnimalOperator {
         Animal a = new Cat();
         return a;
     }
-
 }

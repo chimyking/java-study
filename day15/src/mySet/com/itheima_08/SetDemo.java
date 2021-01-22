@@ -1,4 +1,4 @@
-package com.itheima_08;
+package mySet.com.itheima_08;
 
 import java.util.HashSet;
 import java.util.Random;

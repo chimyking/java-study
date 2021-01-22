@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myLambda.com.itheima_05;
 
 /*
     Lambda表达式的省略模式

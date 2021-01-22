@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myReflect.com.itheima_06;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

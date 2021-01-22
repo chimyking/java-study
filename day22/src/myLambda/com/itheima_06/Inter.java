@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myLambda.com.itheima_06;
 
 public interface Inter {
     void show();

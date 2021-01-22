@@ -3,7 +3,7 @@ package myTwo.cn.itcast;
 //import com.itheima_02.Teacher;
 
 
-import com.itheima_02.Student;
+import myOne.com.itheima_01.Student;
 
 public class Test01 {
     public static void main(String[] args) {

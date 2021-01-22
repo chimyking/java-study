@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myInterface.com.itheima_01;
 
 public class MyInterfaceImplTwo implements MyInterface {
     @Override

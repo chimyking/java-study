@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myMap.com.itheima_04;
 
 public class Student {
     private String name;

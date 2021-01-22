@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myGeneric.com.itheima_05;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,5 @@
-package com.itheima_03;
+package myInterface.com.itheima_03;
+
 /*
     需求：
         1:定义一个接口Inter，里面有四个方法：二个默认方法，二个静态方法
