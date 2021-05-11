@@ -1,4 +1,4 @@
-package com.itheima_05;
+package myFunctionInterface.com.itheima_05;
 
 import java.util.ArrayList;
 import java.util.function.Predicate;

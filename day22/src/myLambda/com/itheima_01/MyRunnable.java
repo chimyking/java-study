@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myLambda.com.itheima_01;
 
 public class MyRunnable implements Runnable {
 

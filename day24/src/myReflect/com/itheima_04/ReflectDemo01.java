@@ -1,6 +1,5 @@
-package com.itheima_04;
+package myReflect.com.itheima_04;
 
-import com.itheima_02.Student;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

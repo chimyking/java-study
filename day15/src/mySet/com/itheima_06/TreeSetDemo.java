@@ -1,4 +1,6 @@
-package com.itheima_06;
+package mySet.com.itheima_06;
+
+import mySet.com.itheima_06.Student;
 
 import java.util.Comparator;
 import java.util.TreeSet;

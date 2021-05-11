@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="69b7f16c-73d8-48e0-b9e4-45ab4dbd62e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day02/src/com/chimy/loop/ControlDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/chimy/loop/ControlDemo.java" afterDir="false" />
@@ -11,6 +12,9 @@
       <change beforePath="$PROJECT_DIR$/day05/src/com/itheima_01/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05/src/com/itheima_01/MethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day05/src/com/itheima_07/MethodTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05/src/com/itheima_07/MethodTest01.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="69b7f16c-73d8-48e0-b9e4-45ab4dbd62e7" name="Default Changelist" comment="" />
+>>>>>>> 884f1fa4bdbc9b2398c7d281ec22f051a1224b86
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -53,36 +56,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day18" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day10/src/cn/itcast/day09/demo15" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.26625" />
     <property name="project.structure.side.proportion" value="0.3" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.itheima_09" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\java-study\day10\src\cn\itcast\day09\demo15" />
+      <recent name="$PROJECT_DIR$/day18" />
+      <recent name="$PROJECT_DIR$/day17/src/myFile/itcast" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day18" />
-      <recent name="$PROJECT_DIR$/day17/src/myFile/itcast" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itheima_09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeSetToFileDemo">
-    <configuration name="ArrayListToFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_06.ArrayListToFileDemo" />
-      <module name="day19" />
+  <component name="RunManager" selected="JUnit.StringTest.testConstructor">
+    <configuration name="ExceptionDemo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myException.com.itheima_02.ExceptionDemo01" />
+      <module name="day13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myCharStream.com.itheima_06.*" />
+          <option name="PATTERN" value="myException.com.itheima_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallNameDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_05.CallNameDemo" />
-      <module name="day19" />
+    <configuration name="ExceptionDemo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myException.com.itheima_02.ExceptionDemo02" />
+      <module name="day13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myCharStream.com.itheima_05.*" />
+          <option name="PATTERN" value="myException.com.itheima_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileToArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_06.FileToArrayListDemo" />
-      <module name="day19" />
+    <configuration name="ExceptionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myException.com.itheima_01.ExceptionDemo02" />
+      <module name="day13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myCharStream.com.itheima_06.*" />
+          <option name="PATTERN" value="myException.com.itheima_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,39 +129,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetToFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_07.TreeSetToFileDemo" />
-      <module name="day19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myCharStream.com.itheima_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="InetAddressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InetAddressDemo" />
+      <module name="day21" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TxtToArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_05.TxtToArrayListDemo" />
-      <module name="day19" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-APIS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myCharStream.com.itheima_05.*" />
+          <option name="PATTERN" value="com.chimy.javase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.chimy.javase" />
+      <option name="MAIN_CLASS_NAME" value="com.chimy.javase.StringTest" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetToFileDemo" />
-        <item itemvalue="Application.FileToArrayListDemo" />
-        <item itemvalue="Application.ArrayListToFileDemo" />
-        <item itemvalue="Application.TxtToArrayListDemo" />
-        <item itemvalue="Application.CallNameDemo" />
+        <item itemvalue="JUnit.StringTest.testConstructor" />
+        <item itemvalue="Application.InetAddressDemo" />
+        <item itemvalue="Application.ExceptionDemo02 (1)" />
+        <item itemvalue="Application.ExceptionDemo01 (1)" />
+        <item itemvalue="Application.ExceptionDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -163,126 +184,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604053205796</updated>
+      <workItem from="1611214012561" duration="700000" />
+      <workItem from="1611287534181" duration="7321000" />
+      <workItem from="1611308969525" duration="2491000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="320" y="115" width="800" height="717" key="#Intentions" timestamp="1607536923026">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="115" width="800" height="717" key="#Intentions/0.0.1440.900@0.0.1440.900" timestamp="1607536923026" />
-    <state x="393" y="43" key="#Project_Structure" timestamp="1607618616902">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="393" y="43" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1607618616902" />
-    <state x="618" y="70" key="#Project_Structure/0.23.1440.832@0.23.1440.832" timestamp="1604053264291" />
-    <state x="411" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607625152395">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="411" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1607625152395" />
-    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1607492952521">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607492952521" />
-    <state x="691" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604053701413">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state x="691" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.832@0.23.1440.832" timestamp="1604053701413" />
-    <state x="288" y="132" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1607490466942">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="288" y="132" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607490466942" />
-    <state x="599" y="318" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604053770840">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state x="599" y="318" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1604053770840" />
-    <state width="1398" height="288" key="GridCell.Tab.0.bottom" timestamp="1607707555652">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607707555652" />
-    <state width="1012" height="215" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1604054269891" />
-    <state width="1398" height="288" key="GridCell.Tab.0.center" timestamp="1607707555651">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607707555651" />
-    <state width="1012" height="215" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1604054269890" />
-    <state width="1398" height="288" key="GridCell.Tab.0.left" timestamp="1607707555651">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.0.left/0.0.1440.855@0.0.1440.855" timestamp="1607493101066" />
-    <state width="1398" height="288" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607707555651" />
-    <state width="1012" height="215" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1604054269890" />
-    <state width="1398" height="288" key="GridCell.Tab.0.right" timestamp="1607707555652">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607707555652" />
-    <state width="1012" height="215" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1604054269891" />
-    <state width="1398" height="288" key="GridCell.Tab.1.bottom" timestamp="1607707555654">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607707555654" />
-    <state width="1398" height="288" key="GridCell.Tab.1.center" timestamp="1607707555653">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607707555653" />
-    <state width="1398" height="288" key="GridCell.Tab.1.left" timestamp="1607707555652">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607707555652" />
-    <state width="1398" height="288" key="GridCell.Tab.1.right" timestamp="1607707555653">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="288" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607707555653" />
-    <state x="454" y="138" key="NewModule_or_Project.wizard" timestamp="1607711414670">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="454" y="138" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1607711414670" />
-    <state x="454" y="151" key="NewModule_or_Project.wizard/0.23.1440.832@0.23.1440.832" timestamp="1604053840380" />
-    <state x="236" y="22" width="1024" height="832" key="SettingsEditor" timestamp="1607711387258">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="236" y="22" width="1024" height="832" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607711387258" />
-    <state x="416" y="23" width="1024" height="832" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1604118828589" />
-    <state x="497" y="224" key="chooseDestDirectoryDialog" timestamp="1604054385497">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state x="497" y="224" key="chooseDestDirectoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1604054385497" />
-    <state x="794" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1607491311364">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="794" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1607491311364" />
-    <state x="794" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1607447471616" />
-    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607492998536">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1607492998536" />
-    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607492976206">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1607492976206" />
-    <state x="301" y="175" width="837" height="550" key="find.popup" timestamp="1607486838154">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1607486838154" />
-    <state width="600" height="323" key="javadoc.popup" timestamp="1607490247752">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="600" height="323" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1607490247752" />
-    <state x="31" y="61" key="new project wizard" timestamp="1607628122245">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="31" y="61" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1607628122245" />
-    <state x="194" y="100" key="new project wizard/0.23.1440.832@0.23.1440.832" timestamp="1604118802771" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day06/src/com/itheima_debug/DebugDemo.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

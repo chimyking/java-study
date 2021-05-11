@@ -1,4 +1,4 @@
-package com.itheima_04;
+package myFunctionInterface.com.itheima_04;
 
 import java.util.function.Consumer;
 

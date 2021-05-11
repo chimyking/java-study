@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myMap.com.itheima_02;
 
 import java.util.HashMap;
 import java.util.Map;

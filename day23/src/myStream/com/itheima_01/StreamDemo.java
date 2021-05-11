@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myStream.com.itheima_01;
 
 import java.util.ArrayList;
 

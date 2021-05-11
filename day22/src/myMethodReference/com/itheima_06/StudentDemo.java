@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myMethodReference.com.itheima_06;
 
 /*
     练习

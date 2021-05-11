@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myFunctionInterface.com.itheima_01;
 
 /*
     函数式接口：有且仅有一个抽象方法的接口

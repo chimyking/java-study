@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myInterface.com.itheima_03;
 
 public interface Inter {
     default void show1() {
@@ -21,7 +21,7 @@ public interface Inter {
         System.out.println("show2结束执行");
     }
 
-    private void show() {
+     default void show() {
         System.out.println("初级工程师");
         System.out.println("中级工程师");
         System.out.println("高级工程师");
@@ -46,7 +46,7 @@ public interface Inter {
         System.out.println("method2结束执行");
     }
 
-    private static void method() {
+    static void method() {
         System.out.println("初级工程师");
         System.out.println("中级工程师");
         System.out.println("高级工程师");

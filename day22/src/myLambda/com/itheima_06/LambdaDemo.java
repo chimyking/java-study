@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myLambda.com.itheima_06;
 
 /*
     Lambda表达式的注意事项

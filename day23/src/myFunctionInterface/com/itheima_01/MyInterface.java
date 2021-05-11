@@ -1,4 +1,4 @@
-package com.itheima_01;
+package myFunctionInterface.com.itheima_01;
 
 @FunctionalInterface
 public interface MyInterface {

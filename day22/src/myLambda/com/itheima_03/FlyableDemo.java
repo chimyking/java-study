@@ -1,4 +1,4 @@
-package com.itheima_03;
+package myLambda.com.itheima_03;
 
 /*
     Lambda表达式的格式：(形式参数) -> {代码块}

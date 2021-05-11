@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myStream.com.itheima_06;
 
 import java.util.*;
 import java.util.stream.Collectors;

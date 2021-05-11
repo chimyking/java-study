@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myReflect.com.itheima_06;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

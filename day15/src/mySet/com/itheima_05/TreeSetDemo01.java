@@ -1,4 +1,4 @@
-package com.itheima_05;
+package mySet.com.itheima_05;
 
 import java.util.TreeSet;
 

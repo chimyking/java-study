@@ -1,6 +1,5 @@
-package com.itheima_03;
+package myReflect.com.itheima_03;
 
-import com.itheima_02.Student;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

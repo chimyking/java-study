@@ -1,4 +1,4 @@
-package com.itheima_06;
+package myGeneric.com.itheima_06;
 
 import java.util.Arrays;
 import java.util.List;
@@ -36,11 +36,11 @@ public class ArgsDemo02 {
 
         //public static <E> Set<E> of​(E... elements) ：返回一个包含任意数量元素的不可变集合
 //        Set<String> set = Set.of("hello", "world", "java","world"); //IllegalArgumentException
-        Set<String> set = Set.of("hello", "world", "java");
+//        Set<String> set = Set.of("hello", "world", "java");
 
 //        set.add("javaee");//UnsupportedOperationException
 //        set.remove("world");//UnsupportedOperationException
 
-        System.out.println(set);
+//        System.out.println(set);
     }
 }

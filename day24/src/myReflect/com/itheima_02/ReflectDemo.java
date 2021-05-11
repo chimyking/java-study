@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myReflect.com.itheima_02;
 
 /*
     三种方式获取Class对象

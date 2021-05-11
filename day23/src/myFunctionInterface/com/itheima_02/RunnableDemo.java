@@ -1,4 +1,4 @@
-package com.itheima_02;
+package myFunctionInterface.com.itheima_02;
 
 /*
     定义一个类(RunnableDemo)，在类中提供两个方法
