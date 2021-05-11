@@ -24,10 +24,10 @@ public class MethodTest01 {
 //        System.out.print("world");
 //        System.out.println();
 
-        //定义一个数组，用静态初始化完成数组元素初始化
+        // 定义一个数组，用静态初始化完成数组元素初始化
         int[] arr = {11, 22, 33, 44, 55};
 
-        //调用方法
+        // 调用方法
         printArray(arr);
     }
 

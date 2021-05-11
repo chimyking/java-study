@@ -5,16 +5,16 @@ package com.chimy.operator;
 */
 public class OperatorDemo9 {
 	public static void main(String[] args) {
-		//定义变量
+		// 定义变量
 		int i = 10;
 		System.out.println("i:" + i);
 
-		//单独使用
+		// 单独使用
 		i++;
 		++i;
 		System.out.println("i:" + i);
 
-		//参与操作使用
+		// 参与操作使用
 		//int j = i++;
 		int j = ++i;
 		System.out.println("i:" + i);

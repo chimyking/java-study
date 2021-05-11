@@ -30,7 +30,7 @@ public class ForForDemo {
 		System.out.println("2时3分");
 		*/
 
-		//循环改进
+		// 循环改进
 		/*
 		for(int minute=0; minute<4; minute++) {
 			System.out.println("0时" + minute + "分");
@@ -48,7 +48,7 @@ public class ForForDemo {
 		System.out.println("--------");
 		*/
 
-		//外循环控制小时的范围，内循环控制分钟的范围
+		// 外循环控制小时的范围，内循环控制分钟的范围
 		/*
 		for(int hour=0; hour<3; hour++) {
 			for(int minute=0; minute<4; minute++) {
