@@ -12,8 +12,8 @@ public class MyThread extends Thread{
     @Override
     public void run() {
         //获取线程名称
-        //String name = getName();
-        //System.out.println(name);
+//        String name = getName();
+//        System.out.println(name);
 
         //Thread t = Thread.currentThread();
         //System.out.println(t);//Thread[Thread-0,5,main]

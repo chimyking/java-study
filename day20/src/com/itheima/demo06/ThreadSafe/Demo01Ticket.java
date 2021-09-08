@@ -6,7 +6,7 @@ package com.itheima.demo06.ThreadSafe;
 public class Demo01Ticket {
     public static void main(String[] args) {
         //创建Runnable接口的实现类对象
-        RunnableImpl run = new RunnableImpl();
+        RunnableImpl1 run = new RunnableImpl1();
         //创建Thread类对象,构造方法中传递Runnable接口的实现类对象
         Thread t0 = new Thread(run);
         Thread t1 = new Thread(run);

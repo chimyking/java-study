@@ -12,7 +12,6 @@ package com.chimy.comment;
 */
 public class HelloWorld {
 
-
     /*
         这是main方法
         main方法是程序的入口方法，代码的执行是从main方法开始的
