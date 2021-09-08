@@ -38,12 +38,10 @@ public class ForDemo {
         System.out.println("--------");
 
         //内部原理是一个Iterator迭代器
-        /*
         for(String s : list) {
             if(s.equals("world")) {
                 list.add("javaee"); //ConcurrentModificationException
             }
         }
-        */
     }
 }
