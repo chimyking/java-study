@@ -18,7 +18,7 @@ public class CalendarDemo {
         System.out.println(year + "年" + month + "月" + date + "日");
 
         //public abstract void add​(int field, int amount):根据日历的规则，将指定的时间量添加或减去给定的日历字段
-        //需求1:3年前的今天
+        // 需求1:3年前的今天
 //        c.add(Calendar.YEAR,-3);
 //        year = c.get(Calendar.YEAR);
 //        month = c.get(Calendar.MONTH) + 1;

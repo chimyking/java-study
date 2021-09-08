@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69b7f16c-73d8-48e0-b9e4-45ab4dbd62e7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/1-Collection/src/Collections/CollectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-Collection/1-Collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1-Collection/1-Collection.iml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/1-Collection/src/List/ListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-APIS/src/com/chimy/javase/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-APIS/src/com/chimy/javase/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-APIS/src/com/chimy/javase/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-APIS/src/com/chimy/javase/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-APIS/src/com/chimy/javase/SimpleDateFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk1.8.0_131/jdk1.8.0_131.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/01_Java概述.ppt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/02_第一个程序.ppt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/03_基础语法.ppt" beforeDir="false" />
@@ -40,11 +52,56 @@
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/34_Stream流.ppt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/35_反射.ppt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day00-基础阶段PPT汇总/36_模块化.ppt" beforeDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/day01/src/com/chimy/comment/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/com/chimy/comment/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day20/src/com/itheima/demo01/getName/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/day20/src/com/itheima/demo01/getName/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day20/src/com/itheima/demo06/ThreadSafe/Demo01Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/day20/src/com/itheima/demo06/ThreadSafe/Demo01Ticket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day20/src/com/itheima/demo06/ThreadSafe/RunnableImpl(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/day20/src/com/itheima/demo06/ThreadSafe/RunnableImpl1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day20/src/com/itheima/demo10/WaitAndNotify/Demo01WaitAndNotify(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/day20/src/com/itheima/demo10/WaitAndNotify/Demo01WaitAndNotify1.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/day07/src/com/itheima_01/PhoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/com/itheima_01/PhoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/day09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_01/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_01/CatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_01/CatOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_02/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_02/AnimalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_02/AnimalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_02/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_03/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_03/Jumpping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_03/JumppingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArgs/com/itheima_03/JumppingOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArrays/com/itheima_01/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myArrays/com/itheima_02/ArraysDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_01/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_02/InnerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_02/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_03/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_03/OuterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_04/Inter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_04/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_04/OuterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_05/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_05/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_05/Jumpping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_05/JumppingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myInnerClass/com/itheima_05/JumppingOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myMath/com/itheima/MathDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myObject/com/itheima_01/ObjectDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myObject/com/itheima_01/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myObject/com/itheima_02/ObjectDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/src/myObject/com/itheima_02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/myCalendar/com/itheima_02/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day13/src/myCalendar/com/itheima_02/CalendarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myCollection/com/itheima_01/CollectionDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/myCollection/com/itheima_01/CollectionDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myCollection/com/itheima_03/CollectionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myCollection/com/itheima_03/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myList/com/itheima_03/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/myList/com/itheima_03/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myList/com/itheima_05/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/myList/com/itheima_05/ForDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myList/com/itheima_08/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myList/com/itheima_08/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/myList/com/itheima_09/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/myList/com/itheima_09/LinkedListDemo.java" afterDir="false" />
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +133,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -87,12 +145,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -104,22 +161,28 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.26625" />
     <property name="project.structure.side.proportion" value="0.3" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day18" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.13867188" />
+    <property name="project.structure.side.proportion" value="0.24886364" />
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\codes\java-study\day10\src\cn\itcast\day09\demo15" />
-      <recent name="$PROJECT_DIR$/day18" />
-      <recent name="$PROJECT_DIR$/day17/src/myFile/itcast" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itheima_09" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.itheima_09" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day18" />
+      <recent name="$PROJECT_DIR$/day17/src/myFile/itcast" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Demo01GetThreadName">
     <configuration name="Demo01GetThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.demo01.getName.Demo01GetThreadName" />
@@ -127,19 +190,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.itheima.demo01.getName.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionDemo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myException.com.itheima_02.ExceptionDemo02" />
-      <module name="day13" />
+=======
+  <component name="RunManager" selected="Application.ListDemo1">
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myList.com.itheima_05.ForDemo" />
+      <module name="day14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myException.com.itheima_02.*" />
+          <option name="PATTERN" value="myList.com.itheima_05.*" />
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +206,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myList.com.itheima_03.ListDemo" />
+      <module name="day14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myList.com.itheima_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="InetAddressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InetAddressDemo" />
       <module name="day21" />
+=======
+    <configuration name="ListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.ListDemo1" />
+      <module name="1-Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="CollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="1-Collection" />
       <extension name="coverage">
@@ -165,33 +250,49 @@
       <option name="PACKAGE_NAME" value="Collections" />
       <option name="MAIN_CLASS_NAME" value="Collections.CollectionTest" />
       <option name="TEST_OBJECT" value="class" />
+=======
+    <configuration name="OuterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myInnerClass.com.itheima_03.OuterDemo" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myInnerClass.com.itheima_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="3-APIS" />
+    <configuration name="TreeSetToFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myCharStream.com.itheima_07.TreeSetToFileDemo" />
+      <module name="day19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chimy.javase.*" />
+          <option name="PATTERN" value="myCharStream.com.itheima_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.chimy.javase" />
-      <option name="MAIN_CLASS_NAME" value="com.chimy.javase.StringTest" />
-      <option name="METHOD_NAME" value="testConstructor" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Demo01GetThreadName" />
         <item itemvalue="JUnit.CollectionTest" />
         <item itemvalue="JUnit.StringTest.testConstructor" />
         <item itemvalue="Application.InetAddressDemo" />
         <item itemvalue="Application.ExceptionDemo02 (1)" />
+=======
+        <item itemvalue="Application.ListDemo1" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.ForDemo" />
+        <item itemvalue="Application.OuterDemo" />
+        <item itemvalue="Application.TreeSetToFileDemo" />
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +307,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604053205796</updated>
+<<<<<<< HEAD
       <workItem from="1611214012561" duration="700000" />
       <workItem from="1611287534181" duration="7321000" />
       <workItem from="1611308969525" duration="6332000" />
@@ -214,11 +316,10 @@
       <workItem from="1611915396598" duration="98000" />
       <workItem from="1614094018751" duration="661000" />
       <workItem from="1631061269429" duration="432000" />
+=======
+>>>>>>> a217e565adb3c714e50fbb704e4f68c1fea5b395
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -231,5 +332,20 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day06/src/com/itheima_debug/DebugDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -15,7 +15,7 @@ import java.util.LinkedList;
  */
 public class LinkedListDemo {
     public static void main(String[] args) {
-        //创建集合对象
+        // 创建集合对象
         LinkedList<String> linkedList = new LinkedList<String>();
 
         linkedList.add("hello");

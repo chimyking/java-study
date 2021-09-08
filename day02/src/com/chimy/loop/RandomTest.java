@@ -26,7 +26,7 @@ public class RandomTest {
 			System.out.println("请输入你要猜的数字：");
 			int guessNumber = sc.nextInt();
 
-			//比较输入的数字和系统产生的数据，需要使用分支语句。这里使用if..else..if..格式，根据不同情况进行猜测结果显示
+			// 比较输入的数字和系统产生的数据，需要使用分支语句。这里使用if..else..if..格式，根据不同情况进行猜测结果显示
 			if(guessNumber > number) {
 				System.out.println("你猜的数字" + guessNumber + "大了");
 			} else if(guessNumber < number) {
